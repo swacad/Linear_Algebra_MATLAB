@@ -4,7 +4,9 @@ Linear Algebra Algorithms in M-Script for MATLAB
 This repository consists of most of the algorithms implemented for an undergraduate linear algebra course with
 UT Austin.
 
-All code contained in the laff folder is not my work.  Credit goes to Robert A. van de Geijn for that code.  Most of the rest of the code are my own implementations of various linear algebra algorithms.
+All code contained in the laff folder is not my work.  Credit goes to Robert A. van de Geijn for that code.  Most of the rest of the code are my own implementations of various linear algebra algorithms.  As far as I know, all of the 
+algorithms work correctly as all of them have been evaluated for correctness both by code review and testing
+using randomly generated matrices and vectors.
 
 Much of the code structure can be generated at http://edx-org-utaustinx.s3.amazonaws.com/UT501x/Spark/index.html.
 However the instructions for each loop iteration must be manually entered.  Using this online application greatly
